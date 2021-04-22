@@ -1,3 +1,3 @@
-FROM ruby:2.5.5
+FROM ruby:latest
 
 CMD ruby -e "puts 1 + 2"
