@@ -1,1 +1,1 @@
-FROM neilcar/docker-test:1
+FROM egistry.access.redhat.com/ubi8/ruby-26
