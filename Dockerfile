@@ -1,1 +1,1 @@
-FROM egistry.access.redhat.com/ubi8/ruby-26
+FROM registry.access.redhat.com/ubi8/ruby-26
